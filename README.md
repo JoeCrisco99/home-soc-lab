@@ -81,6 +81,7 @@ All activity documented in this repository was performed against virtual machine
 
 ## Status
 
-Phase 1: Lab setup and baseline reconnaissance completed.
-Phase 2: Web service enumeration completed.
-Phase 3: Remote access and database service enumeration completed.
+* Phase 1: Lab setup and baseline reconnaissance completed.
+* Phase 2: Web service enumeration completed.
+* Phase 3: Remote access and database service enumeration completed.
+
