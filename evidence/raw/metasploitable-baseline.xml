@@ -8,13 +8,13 @@
 <debugging level="0"/>
 <hosthint><status state="up" reason="arp-response" reason_ttl="0"/>
 <address addr="192.168.56.20" addrtype="ipv4"/>
-<address addr="00:0C:29:4A:63:55" addrtype="mac" vendor="VMware"/>
+<address addr="[REDACTED VM MAC]" addrtype="mac" vendor="VMware"/>
 <hostnames>
 </hostnames>
 </hosthint>
 <host starttime="1782250400" endtime="1782250421"><status state="up" reason="arp-response" reason_ttl="0"/>
 <address addr="192.168.56.20" addrtype="ipv4"/>
-<address addr="00:0C:29:4A:63:55" addrtype="mac" vendor="VMware"/>
+<address addr="[REDACTED VM MAC]" addrtype="mac" vendor="VMware"/>
 <hostnames>
 </hostnames>
 <ports><extraports state="closed" count="977">

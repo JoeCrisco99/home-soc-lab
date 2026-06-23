@@ -26,7 +26,7 @@ PORT     STATE SERVICE     VERSION
 6667/tcp open  irc         UnrealIRCd
 8009/tcp open  ajp13       Apache Jserv (Protocol v1.3)
 8180/tcp open  http        Apache Tomcat/Coyote JSP engine 1.1
-MAC Address: 00:0C:29:4A:63:55 (VMware)
+MAC Address: [REDACTED VM MAC] (VMware)
 Device type: general purpose
 Running: Linux 2.6.X
 OS CPE: cpe:/o:linux:linux_kernel:2.6
