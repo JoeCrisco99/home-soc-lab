@@ -1,0 +1,13 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-06-23 19:04 -0400
+Nmap scan report for 192.168.56.20
+Host is up (0.00056s latency).
+
+PORT     STATE SERVICE     VERSION
+111/tcp  open  rpcbind     2 (RPC #100000)
+139/tcp  open  netbios-ssn Samba smbd 3.X - 4.X (workgroup: WORKGROUP)
+445/tcp  open  netbios-ssn Samba smbd 3.X - 4.X (workgroup: WORKGROUP)
+2049/tcp open  nfs         2-4 (RPC #100003)
+MAC Address: 00:0C:29:4A:63:55 (VMware)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 15.49 seconds
