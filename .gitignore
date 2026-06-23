@@ -1,0 +1,37 @@
+# Packet captures and raw traffic files
+*.pcap
+*.pcapng
+*.cap
+
+# Credentials, keys, and secrets
+*.key
+*.pem
+*.crt
+*.p12
+*.kdbx
+secrets/
+credentials/
+passwords/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+
+# Large or messy logs
+*.log
+
+# System junk
+.DS_Store
+Thumbs.db
+
+# Do not commit VM files
+*.vmdk
+*.vmx
+*.vmxf
+*.nvram
+*.vmsd
+*.vmss
+*.lck
