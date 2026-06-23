@@ -1,0 +1,2 @@
+----- PostgreSQL Service Check -----
+(UNKNOWN) [192.168.56.20] 5432 (postgresql) open

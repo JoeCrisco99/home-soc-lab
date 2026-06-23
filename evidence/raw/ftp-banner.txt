@@ -1,0 +1,4 @@
+----- FTP Banner -----
+(UNKNOWN) [192.168.56.20] 21 (ftp) open
+220 (vsFTPd 2.3.4)
+221 Goodbye.
