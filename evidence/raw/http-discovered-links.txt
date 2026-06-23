@@ -1,0 +1,31 @@
+----- Port 80 Discovered Links -----
+/twiki/
+/phpMyAdmin/
+/mutillidae/
+/dvwa/
+/dav/
+
+----- Port 8180 Discovered Links -----
+http://tomcat.apache.org/
+http://www.apache.org/
+manager/status
+admin
+manager/html
+RELEASE-NOTES.txt
+tomcat-docs/changelog.html
+tomcat-docs
+http://tomcat.apache.org/
+http://tomcat.apache.org/faq/
+http://tomcat.apache.org/bugreport.html
+http://issues.apache.org/bugzilla/buglist.cgi?bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED&amp;bug_status=RESOLVED&amp;resolution=LATER&amp;resolution=REMIND&amp;resolution=---&amp;bugidtype=include&amp;product=Tomcat+5&amp;cmdtype=doit&amp;order=Importance
+http://mail-archives.apache.org/mod_mbox/tomcat-users/
+http://mail-archives.apache.org/mod_mbox/tomcat-dev/
+irc://irc.freenode.net/#tomcat
+jsp-examples/
+servlets-examples/
+webdav/
+http://java.sun.com/products/jsp
+http://java.sun.com/products/servlet
+tomcat-docs
+mailto:users@tomcat.apache.org
+mailto:dev@tomcat.apache.org
