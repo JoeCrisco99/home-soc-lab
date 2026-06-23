@@ -37,6 +37,7 @@ The lab is built around a controlled VMware environment using Kali Linux as the 
 | [Report 01: Reconnaissance and Enumeration](reports/01-reconnaissance-and-enumeration.md)                 | Baseline connectivity testing, Nmap scan results, open ports, and initial risk themes            |
 | [Report 02: Service Enumeration](reports/02-service-enumeration.md)                                       | Web service enumeration for HTTP, WebDAV, Tomcat, exposed applications, and administrative paths |
 | [Report 03: Remote Access and Database Enumeration](reports/03-remote-access-and-database-enumeration.md) | Enumeration of FTP, SSH, Telnet, MySQL, PostgreSQL, and VNC services                             |
+| [Report 04: File Sharing and RPC Enumeration](reports/04-file-sharing-and-rpc-enumeration.md) | Enumeration of RPC, SMB, NetBIOS, NFS exports, anonymous SMB share listing, and file-sharing exposure |
 
 ## Evidence
 
@@ -84,4 +85,4 @@ All activity documented in this repository was performed against virtual machine
 * Phase 1: Lab setup and baseline reconnaissance completed.
 * Phase 2: Web service enumeration completed.
 * Phase 3: Remote access and database service enumeration completed.
-
+* Phase 4: File sharing and RPC service enumeration completed.
